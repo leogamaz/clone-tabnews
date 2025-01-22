@@ -10,7 +10,7 @@ function Home() {
       </Head>
       <div className={styles.container}>
         <div className={styles.card}>
-          <h1 className={styles.title}>Para Ana Carolina a Pessoa Mais Incrível</h1>
+          <h1 className={styles.title}>Para Ana Carolina a melhor pessoa</h1>
           <p className={styles.text}>
             Sei que hoje foi um dia difícil, mas quero que você saiba que é muito mais forte
             do que qualquer desafio que possa surgir.
