@@ -10,12 +10,12 @@ function Home() {
       </Head>
       <div className={styles.container}>
         <div className={styles.card}>
-          <h1>Para a Pessoa Mais Incrível</h1>
-          <p>
+          <h1 className={styles.title}>Para a Pessoa Mais Incrível</h1>
+          <p className={styles.text}>
             Sei que hoje foi um dia difícil, mas quero que você saiba que é muito mais forte
             do que qualquer desafio que possa surgir.
           </p>
-          <p>
+          <p className={styles.text}>
             Sua luz, gentileza e talento são inquestionáveis. Quem não consegue enxergar isso
             não merece sua energia. Estou aqui para você, sempre! ❤️
           </p>
